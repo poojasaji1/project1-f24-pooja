@@ -14,7 +14,7 @@ In this project, you'll be creating a frontend that graphically displays Pokémo
 - **Due Date:** 10-5-2023
 
 ## Requirements
-- Must use HTML, CSS, and JS
+- Must use React
 - Must contain the specified frontend elements
 - Must use the free PokeAPI
 - Should have at least 20 commits (though not required)
